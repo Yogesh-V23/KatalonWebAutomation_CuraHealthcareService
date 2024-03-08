@@ -1,0 +1,1 @@
+# KatalonWebAutomation_CuraHealthcareService
